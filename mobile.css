@@ -1,0 +1,362 @@
+@media (max-width: 480px)
+{
+ 
+      *{
+        margin: 0%;
+        padding: 0%;
+        overflow-x: hidden;
+        box-sizing: border-box;
+       }
+
+  .mlogo
+  {
+    height: 400px;
+    width: 100%;
+    display: block;
+  }
+  .logo1
+  {
+    height: auto;
+    width: 100%;
+    
+  }
+  .logo1 img
+{
+    height: 50px;
+    width: 70%;
+    margin-top: 0px;
+    margin-left: 60px;
+    
+
+}
+.nav
+{
+    height: 300px;
+    width: 100%;
+    padding-left: 32%;
+
+}
+.nav ul
+{
+    height: 280px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.nav ul li
+{
+  height: 70px;
+  width: 100%;
+  list-style: none;
+}
+.mimg
+{
+    height: auto;
+    width: 100%;
+
+
+}
+.img1 img
+{
+    height: 290px;
+    width: 100%;
+}
+.bimg
+{
+    height: auto;
+    width: 100%;
+    display: flex; 
+    flex-direction: column ;
+    padding-top: 5%;
+}
+
+.bimg1 img
+{
+    height: 500px;
+    width: 100%;
+}
+.bimg2 img 
+{
+    height: 500px;
+    width: 100%;
+}
+.bimg3 img
+{
+    height: 500px;
+    width: 100%;
+
+}
+.cimg
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+
+}
+.cimg1 
+{
+    height: auto;
+    width: 100%;
+}
+.cimg1 img
+{
+    height: 400px;
+    width: 100%;
+}
+.cimg2
+{
+    height: auto;
+    width: 100%;
+}
+.cimg2 img
+{
+    height: 400px;
+    width: 100%;
+}
+.cimg3
+{
+    height: auto;
+    width: 100%;
+}
+.cimg3 img
+{
+    height: 400px;
+    width: 100%;
+}
+.cimg4
+{
+    height: auto;
+    width: 100%;
+}
+.cimg4 img
+{
+    height: 400px;
+    width: 100%;
+}
+.bbimg
+{
+    
+    height: auto;
+    width: 100%;
+    margin-top: 20px;   
+}
+.img111 img
+{
+    height: 300px;
+    width: 100%;
+    margin-top: 5%;
+}
+.text
+{
+    margin-top: 100px;
+}
+ p.text1
+{
+    font-size: 25px;
+    text-align: center;
+}
+.text h2
+{
+    text-align: center;
+    font-weight: 600;
+    font-size: 60px;
+}
+.dimg
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.dimg1 
+{
+    height: auto;
+    width: 100%;
+}
+.dimg1 img
+{
+    height:300px;
+    width: 100%;
+    
+}
+.dimg2
+{
+    height: auto;
+    width: 100%;
+}
+.dimg2 img
+{
+    height: 300px;
+    width: 100%;
+}
+.dimg3
+{
+    height:auto;
+    width: 100%
+}
+.dimg3 img
+{
+    height: 300px;
+    width: 100%;
+}
+.dimg4
+{
+    height: auto;
+    width: 100%;
+}
+.dimg4 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.aimg1
+{
+    height: auto;
+    width: 100%;
+}
+.aimg1 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg2 
+{
+    height: auto;
+    width: 100%;
+}
+.aimg2 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg3
+{
+    height: auto;
+    width: 100%;
+}
+.aimg3 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg4 
+{
+    height: auto;
+    width: 100%;
+}
+.aimg4 img
+{
+    height: 300px;
+    width: 100%
+}
+.RANGE
+{
+    text-align: center;
+    color: rgb(0, 157, 255);
+     background-color: rgb(246, 224, 224);
+     padding-top: 15px; 
+}
+.text2
+{
+    text-align: center;
+    font-size: 15px;
+    height: auto;
+    margin-top: 15%;
+
+}
+
+.text3
+{
+    text-align: center;
+    font-size: 50px;
+    margin: 5px;
+    padding-bottom: 10px;
+}
+.video-1
+{
+    width: 100%;
+
+} 
+.mfooter
+   {
+    height: auto;
+    width: 100%;
+    background-color: #212529;
+    display: block;
+    margin-top: 5%;
+
+   }
+   .imgh
+   {
+    height:auto;
+    width: 100%;
+   
+   }
+   .imgh img
+   {
+   padding-top: 5%;
+
+   }
+   .ww
+  {
+    height: auto;
+    width: 50%;
+    color: grey;
+    overflow-y: hidden;
+    
+  }
+  .ww p
+  {
+    padding-top: 2%;
+    word-spacing: 10px;
+  }
+  .ww span
+  {
+    font-size: 12px;
+  }
+  .sticker
+  {
+    height: auto;
+    width: 100%;
+    display: flex;
+    color: grey;
+    font-size: 15px;
+  }
+  .sti1
+  {
+    margin-top: 7%;
+    margin-left: 5%;
+  }
+  .sti2
+  {
+    margin-top: 7%;
+    margin-left: 7%;
+  }
+  .sti3
+  {
+    margin-top: 7%;
+    margin-left: 9%;
+  }
+  .sti4
+  {
+    margin-top: 7%;
+    margin-left: 9%;
+  }
+  .sti5
+  {
+    margin-top: 7%;
+    margin-left: 9%;
+  }
+  
+}

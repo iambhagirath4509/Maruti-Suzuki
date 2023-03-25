@@ -1,0 +1,362 @@
+@media(min-width:769px) and (max-width:1024px)
+{
+    *
+    {
+        padding: 0%;
+        margin: 0%;
+        overflow-x:hidden ;
+        box-sizing: border-box;
+        
+    }
+    .mlogo
+  {
+    height: auto;
+    width: 100%;
+    display: block;
+  }
+  .logo1
+  {
+    height: auto;
+    width: 100%;
+    
+  }
+  .logo1 img
+{
+    height: 50px;
+    width: 50%;
+    margin-top: 0px;
+    margin-left: 225px;
+    padding-top: 2px;
+    
+}
+.nav
+{
+    height: auto;
+    width: 100%;
+    padding-left: 0%;
+
+}
+.nav ul
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    padding-right: 4%;
+    /* flex-direction: column; */
+}
+.nav ul li
+{
+  height: 70px;
+  width: 100%;
+  list-style: none;
+  padding-right:10%;
+}
+.mimg
+{
+    height: auto;
+    width: 100%;
+
+
+}
+.img1 img
+{
+    height: 600px;
+    width: 100%;
+}
+.bimg
+{
+    height: 525px;
+    width: 100%;
+    display: flex;
+    
+    padding-top: 2%;
+}
+
+.bimg1 img
+{
+    height: 500px;
+    width: 100%;
+}
+.bimg2 img 
+{
+    height: 500px;
+    width: 100%;
+}
+.bimg3 img
+{
+    height: 500px;
+    width: 100%;
+
+}
+.cimg
+{
+    height: 360px;
+    width: 100%;
+    display: flex;
+    padding-top: 3%;
+
+}
+.cimg1 
+{
+    height: auto;
+    width: 25%;
+}
+.cimg1 img
+{
+    height: 300px;
+    width: 100%;
+}
+.cimg2
+{
+    height: auto;
+    width: 25%;
+}
+.cimg2 img
+{
+    height: 300px;
+    width: 100%;
+}
+.cimg3
+{
+    height: auto;
+    width: 25%;
+}
+.cimg3 img
+{
+    height: 300px;
+    width: 100%;
+}
+.cimg4
+{
+    height: auto;
+    width: 25%;
+}
+.cimg4 img
+{
+    height: 300px;
+    width: 100%;
+}
+.bbimg
+{
+    
+    height: auto;
+    width: 100%;
+    
+}
+.img111 img
+{
+    height: 600px;
+    width: 100%;
+    margin-top: 3%;
+    
+}
+.text
+{
+    margin-top: 100px;
+}
+ p.text1
+{
+    font-size: 25px;
+    text-align: center;
+}
+.text h2
+{
+    text-align: center;
+    font-weight: 600;
+    font-size: 60px;
+}
+.dimg
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    margin-top: 3%;
+}
+.dimg1 
+{
+    height: auto;
+    width: 25%;
+}
+.dimg1 img
+{
+    height:300px ;
+    width: 100%;
+    
+}
+.dimg2
+{
+    height: auto;
+    width: 25%;
+}
+.dimg2 img
+{
+    height: 300px;
+    width: 100%;
+}
+.dimg3
+{
+    height:auto;
+    width: 25%
+}
+.dimg3 img
+{
+    height: 300px;
+    width: 100%;
+}
+.dimg4
+{
+    height: auto;
+    width: 25%;
+}
+.dimg4 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+.aimg1
+{
+    height: auto;
+    width: 25%;
+}
+.aimg1 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg2 
+{
+    height: auto;
+    width: 25%;
+}
+.aimg2 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg3
+{
+    height: auto;
+    width: 25%;
+}
+.aimg3 img
+{
+    height: 300px;
+    width: 100%;
+}
+.aimg4 
+{
+    height: auto;
+    width: 25%;
+}
+.aimg4 img
+{
+    height: 300px;
+    width: 100%
+}
+.RANGE
+{
+    text-align: center;
+    color: rgb(0, 157, 255);
+     background-color: rgb(246, 224, 224);
+     padding-top: 15px;
+}
+.text2
+{
+    text-align: center;
+    font-size: 15px;
+    height: auto;
+    margin-top: 5%;
+
+}
+.text3
+{
+    text-align: center;
+    font-size: 50px;
+    margin: 5px;
+    padding-bottom: 10px;
+}
+.video-1
+{
+    width: 100%;
+    
+}
+.mfooter
+   {
+    height: 150px;
+    width: 100%;
+    background-color: #212529;
+    display: flex;
+    margin-top: 5%;
+   }
+   .imgh
+   {
+    height:auto;
+    width: auto;
+   
+   }
+   .imgh img
+   {
+   padding-top: 5%;
+
+   }
+  .ww
+  {
+    height: 150px;
+    width: 60%;
+    color: grey;
+    margin-left: 3%;
+  }
+  .ww p
+  {
+    word-spacing: 10px;
+  }
+  .ww span
+  {
+    font-size: 12px;
+  }
+  .sticker
+  {
+    height: 150px;
+    width: 24%;
+    display: flex;
+    color: grey;
+    font-size: 15px;
+  }
+  .sti1
+  {
+    margin-top: 7%;
+    margin-left: 5%;
+  }
+  .sti2
+  {
+    margin-top: 7%;
+    margin-left: 7%;
+  }
+  .sti3
+  {
+    margin-top: 7%;
+    margin-left: 9%;
+  }
+  .sti4
+  {
+    margin-top: 7%;
+    margin-left: 9%;
+  }
+  .sti5
+  {
+    margin-top: 7%;
+    margin-left: 9%;
+  }
+  .fixed
+  {
+    height: 100px;
+    width: 100%;
+    background-color: #002c5f;
+  }
+}
